@@ -1,0 +1,23 @@
+html,body{
+    color: white;
+}
+
+.startup{
+    background: url(bg.jpg) fixed center no-repeat;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+
+.col-lg-12{
+    font-family: 'Fjalla One', sans-serif;
+    padding: 50px;
+}
+
+.btn{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+}
